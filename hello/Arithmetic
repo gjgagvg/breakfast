@@ -1,0 +1,52 @@
+package com.yuze.hello;
+
+public class Arithmetic {
+    int i1=10;
+   ; int i2=20;
+    int i=i2++;
+    System.out.println("i="+i);
+
+
+}
+
+//    public static void main(String[] args) {
+//        double money=100000;
+//                int count=0;
+//                while(true){
+//                    if (money>=1000){
+//                        money-=1000;
+//                        count++;
+//
+//
+//                    }else {
+//                        break;
+//                    }
+//                System.out.println("money");
+//                }
+//
+//
+//        }
+//    }
+//
+//
+//}
+//
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
